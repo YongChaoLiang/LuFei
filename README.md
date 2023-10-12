@@ -1,1 +1,1 @@
-Prediction of amorphous forming ability based on artificial neural network and convolutional neural network
+Prediction of amorphous forming ability based on artificial neural network and convolutional neural network: Here you can find the original data set we used for the experiment and the python code of the research.
